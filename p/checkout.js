@@ -30,7 +30,7 @@ if (Fname !=0 && Lname !=0 && emailAdress !=0 && phone !=0 && Adress !=0 && city
   
  const ss =JSON.stringify(data);
  localStorage.setItem('UserShippingDetails',ss);
-  window.location= "/p/payment.html";
+  window.location= "./p/payment.html";
   return false;
 } 
 
@@ -49,14 +49,14 @@ if (Fname !=0 && Lname !=0 && emailAdress !=0 && phone !=0 && Adress !=0 && city
 
 xhr.onreadystatechange = function() {
 if (xhr.readyState ==4 && xhr.status==200) {
-  window.location="/p/success.html";
+  window.location="./p/success.html";
 } else {
  // alert("An error has accured please re-try"); 
 }
   
 };
 //update send.php with the directory of the php file
- xhr.open("POST" ,"/p/post.php",true);
+ xhr.open("POST" ,"./p/post.php",true);
  xhr.setRequestHeader("Content-Type","application/json");
  xhr.send(ss);
 

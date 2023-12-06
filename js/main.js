@@ -21,9 +21,6 @@ document.getElementById("skblk").innerHTML = ` ${ cp.map(generateCard).join('') 
 
 };
 
-//<h5 class="card-title" style="font-family:  Georgia, 'Times New Roman', Times, serif; font-weight: bold; font-size: 30px;">${card.name}</h5>
-/* <h5 class="card-title text-right pr-3" style="font-family:  Georgia, 'Times New Roman', Times, serif; font-weight: bold; font-size: 30px;">$55</h5> */
-
 
 // that generate the cards
 function generateCard(card) {

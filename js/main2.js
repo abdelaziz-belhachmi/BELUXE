@@ -5,7 +5,7 @@ fetch data =>shuffle data => generate cards where eachCard onclick it call fonct
 fonction prdct(id) , it fetch again data and look for the object that contain the "id" parameter and generate html page for the product
 */ 
 
-const WomenApi ="../products/women/data";
+const WomenApi ="./products/women/data";
 
 
 const onLoad = async () =>{

@@ -1,5 +1,5 @@
 
-const brands ="../products/brands";
+const brands ="./products/brands";
    
 async function gnr() 
 {
@@ -119,7 +119,7 @@ acc = bOth[ac];
 localStorage.setItem('click2see',JSON.stringify(acc));
 console.log(acc);
 
-location.href ="/p/product.html";
+location.href ="./p/product.html";
 }
 
 //fn that generate the images in carousel

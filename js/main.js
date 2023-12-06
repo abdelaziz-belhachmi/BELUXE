@@ -3,7 +3,7 @@ fetch data =>shuffle data => generate cards where eachCard onclick it call fonct
 fonction prdct(id) , it fetch again data and look for the object that contain the "id" parameter and generate html page for the product
 */ 
 
-const menApi ="../products/men/data";
+const menApi ="./products/men/data";
 
 
 const onLoad = async () =>{
@@ -80,7 +80,7 @@ async function clickme(id){
     }
 
     localStorage.setItem('click2see',JSON.stringify(cop[a]));
-    location.href="/p/product.html"
+    location.href="./p/product.html"
 
 } catch (error) {
     console.log(error);

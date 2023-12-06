@@ -1,0 +1,256 @@
+.btn-outline-dark:hover{
+  background-color: black !important;
+}
+
+
+.shakeit:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+
+
+
+.mydiv{
+    padding-top: 70px;
+  }
+  .bg-dark {
+    background-color: black !important;
+  }
+  .sear {
+      max-width: 240px;
+  }
+  .pssp{
+padding-top: 20vh;
+ }
+  .wallpaper{
+      background-image: url('');
+      height : 96vh;/*440*/
+      background-repeat: no-repeat;
+      background-position: center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+
+        }
+
+.fadin {
+
+  animation: transitionIn 1.7s;
+
+}
+.fadin4 {
+
+  animation: transitionIn 4s;
+
+}
+.fadin5 {
+
+  animation: transitionIn 4.4s;
+
+}
+
+.fadin2 {
+
+  animation: transitionIn 2s;
+
+}
+
+
+.fadin0 {
+
+  animation: transitionIn 0.7s;
+
+}
+
+
+@media screen and (max-width: 600px) {
+  p.text {
+    font-size: 70px;
+  }
+}
+@media screen and (max-width: 600px) {
+  p.text2 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  p.text2 {
+    font-size: 30px;
+  }
+}
+
+h5{
+  font-family: Arial, Helvetica, sans-serif;
+}
+p{
+  font-family:  Georgia, 'Times New Roman', Times, serif;
+}
+.clas {
+  
+    color: gray;
+  
+}
+
+.ax{
+   max-width: 300px;
+  min-width:190px ;
+}
+.no-bullets{ list-style:none outside;
+  margin-left:0;
+}
+ul li a{color:white}
+.site-footer__linklist{margin:0}
+.site-footer__linklist li a{display:inline-block;padding:4px 0;color: white;}
+
+.ss {
+  background-image: url("https://cdn.shopify.com/s/files/1/0074/5432/6835/collections/f242d87b04183c695b34c45a1bb52f8b_900x.jpg");
+  width: 300px;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bottom {
+  position: absolute;
+   bottom: 10px; 
+   left :90px; 
+ 
+
+  font-family:  Georgia, 'Times New Roman', Times, serif; 
+  font-weight: bold; 
+  font-size: 27px;
+}
+
+.wallpaper2{
+  background-image: url('/homewallpaper.jpg');
+  
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  
+}
+
+.diiv{
+  height: 60px;
+}
+
+.imlogo {
+  padding-left: 0.7rem;
+}
+
+
+/*annimation*/
+@keyframes transitionIn {
+  from{
+        opacity: 0;
+        transform: rotateX(-10deg);
+  }
+  to {
+      opacity: 1;
+      transform: rotateX(0);
+  }
+
+}
+
+.price-wrap{
+min-width: 130px;
+}
+
+ #forrm {
+  width: 130px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.value-button {
+  display: inline-block;
+  border: 1px solid #ddd;
+  margin: 0px;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 5px 0;
+  background: #eee;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.value-button:hover {
+  cursor: pointer;
+}
+
+form #decrease {
+  margin-bottom: 5.5px;
+  margin-right: -4px;
+  border-radius: 8px 0 0 8px;
+}
+
+form #increase {
+  margin-bottom: 5.5px;
+  margin-left: -4px;
+  border-radius: 0 8px 8px 0;
+}
+
+form #input-wrap {
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+input#number {
+  text-align: center;
+  border: none;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  margin: 0px;
+  width: 35px;
+  height: 35px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+@media (max-height: 520px) {
+  .FontSizeOnResolution { font-size:32px !important; }
+}
+
+.FontSizeOnResolution ,
+.exploreinventory { font-family: 'Oxygen', sans-serif !important; }
+
+body{
+  font-family: 'Oxygen', sans-serif !important;}
+

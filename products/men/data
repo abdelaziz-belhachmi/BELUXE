@@ -1,0 +1,98 @@
+{  "menproducts" : 
+                
+    [
+    
+                        {
+                        "id":"AAAA",
+                        "name":" libero nunc  interdum varius sit",
+                        "price": 149,
+                        "oldprice":220,
+                        "mainphoto":"../assets/images/loremipsum1.png",
+                        "additionalphotos":["../assets/images/loremipsum1.png"],
+                        "availableSizes":["Default"],
+                        "availableColors":["SILVER"],
+                        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas. Justo donec enim diam vulputate ut pharetra sit amet. Massa sapien faucibus et molestie ac feugiat. Elementum nibh tellus molestie nunc non blandit massa enim nec. Augue ut lectus arcu bibendum at varius vel pharetra vel. Ac tortor dignissim convallis aenean. Egestas sed sed risus pretium quam. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Commodo elit at imperdiet dui accumsan sit. Suspendisse in est ante in nibh. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Eleifend mi in nulla posuere sollicitudin.",
+                        "specification":"Les tailles disponibles: S ,M ,L ,XL ,XXL."
+                        },
+                    
+                        {
+                        "id":"AAAB",
+                        "name":"orci a scelerisque purus semper",
+                        "price": 129,
+                        "oldprice":210,
+                        "mainphoto":"../assets/images/loremipsum2.png",
+                        "additionalphotos":["../assets/images/loremipsum2.png"],
+                        "availableSizes":["Default"],
+                        "availableColors":["Bronze Brown"],
+                        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas. Justo donec enim diam vulputate ut pharetra sit amet. Massa sapien faucibus et molestie ac feugiat. Elementum nibh tellus molestie nunc non blandit massa enim nec. Augue ut lectus arcu bibendum at varius vel pharetra vel. Ac tortor dignissim convallis aenean. Egestas sed sed risus pretium quam. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Commodo elit at imperdiet dui accumsan sit. Suspendisse in est ante in nibh. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Eleifend mi in nulla posuere sollicitudin.",
+                        "specification":"Les tailles disponibles: S ,M ,L ,XL ,XXL."
+                        },
+                        
+                         {   
+                        "id":"AAAD",
+                        "name":"tellus id interdum velit laoreet.",
+                        "price": 250,
+                        "oldprice": "",
+                        "mainphoto":"../assets/images/loremipsum1.png",
+                        "additionalphotos":["../assets/images/loremipsum2.png"],
+
+                        "availableSizes":["42mm"],
+                        "availableColors":["SILVER"],
+                        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas. Justo donec enim diam vulputate ut pharetra sit amet. Massa sapien faucibus et molestie ac feugiat. Elementum nibh tellus molestie nunc non blandit massa enim nec. Augue ut lectus arcu bibendum at varius vel pharetra vel. Ac tortor dignissim convallis aenean. Egestas sed sed risus pretium quam. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Commodo elit at imperdiet dui accumsan sit. Suspendisse in est ante in nibh. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Eleifend mi in nulla posuere sollicitudin.",
+                        "specification":"Les tailles disponibles: S ,M ,L ,XL ,XXL."
+                    },
+                    {
+                        "id":"AAAF",
+                        "name":"tellus id interdum orci a scelerisque purus semper",
+                        "price": 250,
+                        "oldprice":"",
+                        "mainphoto":"../assets/images/loremipsum1.png",
+                        "additionalphotos":["../assets/images/loremipsum2.png"],
+                        "availableSizes":["41mm"],
+                        "availableColors":["Blue Dial"],
+                        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas. Justo donec enim diam vulputate ut pharetra sit amet. Massa sapien faucibus et molestie ac feugiat. Elementum nibh tellus molestie nunc non blandit massa enim nec. Augue ut lectus arcu bibendum at varius vel pharetra vel. Ac tortor dignissim convallis aenean. Egestas sed sed risus pretium quam. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Commodo elit at imperdiet dui accumsan sit. Suspendisse in est ante in nibh. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Eleifend mi in nulla posuere sollicitudin.",
+                        "specification":"Les tailles disponibles: S ,M ,L ,XL ,XXL."
+                    },
+                     {
+                    "id":"AAAH",
+                    "name":" interdum velit laoreet",
+                    "price": 20,
+                    "oldprice":"24",
+                    "mainphoto":"../assets/images/loremipsum2.png",
+                    "additionalphotos":["../assets/images/loremipsum1.png"],
+                    "availableSizes":["S","M","L","XL","XXL"],
+                    "availableColors":["Blue","Black"],
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas. Justo donec enim diam vulputate ut pharetra sit amet. Massa sapien faucibus et molestie ac feugiat. Elementum nibh tellus molestie nunc non blandit massa enim nec. Augue ut lectus arcu bibendum at varius vel pharetra vel. Ac tortor dignissim convallis aenean. Egestas sed sed risus pretium quam. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Commodo elit at imperdiet dui accumsan sit. Suspendisse in est ante in nibh. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Eleifend mi in nulla posuere sollicitudin.",
+                    "specification":"Les tailles disponibles: S ,M ,L ,XL ,XXL."
+                    },
+                    
+                    {
+                    "id":"AAAI",
+                    "name":"proin libero nunc consequat interdum varius sit",
+                    "price": 39,
+                    "oldprice":"49",
+                    "mainphoto":"../assets/images/loremipsum1.png",
+                    "additionalphotos":["../assets/images/loremipsum2.png"],
+                    "availableSizes":["S","M","L","XL","XXL"],
+                    "availableColors":["White","Black","Grey","Red"],
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas. Justo donec enim diam vulputate ut pharetra sit amet. Massa sapien faucibus et molestie ac feugiat. Elementum nibh tellus molestie nunc non blandit massa enim nec. Augue ut lectus arcu bibendum at varius vel pharetra vel. Ac tortor dignissim convallis aenean. Egestas sed sed risus pretium quam. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Commodo elit at imperdiet dui accumsan sit. Suspendisse in est ante in nibh. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Eleifend mi in nulla posuere sollicitudin.",
+                    "specification":"Les tailles disponibles: S ,M ,L ,XL ,XXL."
+                    },
+                    
+                     {
+                    "id":"AAAJ",
+                    "name":"pt interdum varius sit",
+                    "price": 39,
+                    "oldprice":"49",
+                    "mainphoto":"../assets/images/loremipsum2.png",
+                    "additionalphotos":["../assets/images/loremipsum1.png"],
+                    "availableSizes":["S","M","L","XL","XXL"],
+                    "availableColors":["White","Black"],
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu felis bibendum ut tristique et egestas. Justo donec enim diam vulputate ut pharetra sit amet. Massa sapien faucibus et molestie ac feugiat. Elementum nibh tellus molestie nunc non blandit massa enim nec. Augue ut lectus arcu bibendum at varius vel pharetra vel. Ac tortor dignissim convallis aenean. Egestas sed sed risus pretium quam. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Commodo elit at imperdiet dui accumsan sit. Suspendisse in est ante in nibh. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Eleifend mi in nulla posuere sollicitudin.",
+                    "specification":"Les tailles disponibles: S ,M ,L ,XL ,XXL."
+                    }
+
+
+                        
+    ]
+}
